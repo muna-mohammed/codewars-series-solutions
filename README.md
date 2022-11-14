@@ -1,2 +1,2 @@
-# codewars-series-1-
-FIXME: Get Full Name
+# codewars-series-solutions
+
